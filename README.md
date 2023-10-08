@@ -30,8 +30,8 @@ Then run start.bat
 
 # Screenshots
 
-
+![lenusss1](https://github.com/BendyDacommander/lenus/assets/121954973/e62aad7d-ed9d-4f86-a96a-569a42c7aa22)
 ![lenusss2](https://github.com/BendyDacommander/lenus/assets/121954973/01616ee9-2a9a-4191-bdb2-016d477f75ef)
 ![lenusss3](https://github.com/BendyDacommander/lenus/assets/121954973/2236b623-93f5-44ec-8df8-6d80a4c12dac)
-![lenusss1](https://github.com/BendyDacommander/lenus/assets/121954973/e62aad7d-ed9d-4f86-a96a-569a42c7aa22)
+
 
