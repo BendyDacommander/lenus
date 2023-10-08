@@ -1,7 +1,7 @@
 # LENUS
 Lenus is a python multitool 
 
-# Featues
+# Features
 
 - Server Nuker
 .Lenus has a very fast Discord Server Nuker that can reach 1k pings
