@@ -1,5 +1,5 @@
 # LENUS
-Lenus is a python multitool 
+Lenus is a python multitool mainly for discord.
 ![redwaves](https://github.com/BendyDacommander/lenus/assets/121954973/268c462f-f1de-4c20-9568-9fae83e60035)
 
 
