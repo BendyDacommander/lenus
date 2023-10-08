@@ -1,5 +1,7 @@
 # LENUS
 Lenus is a python multitool 
+![gifgit](https://github.com/BendyDacommander/lenus/assets/121954973/27e9213e-3c09-4902-bc0f-8b2612406c9b)
+
 
 # Features
 
