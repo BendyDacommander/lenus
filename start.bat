@@ -1,1 +1,0 @@
-python lenus.py
